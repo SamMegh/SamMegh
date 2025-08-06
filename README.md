@@ -17,7 +17,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=SamMegh&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
     </td>
     <td style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamMegh&theme=radical&hide_border=true&layout=compact" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamMegh&theme=radical&hide_border=true&layout=compact" alt="Top Languages" style="border-radius: 10px;background-color:none; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
     </td>
   </tr>
   <tr>
