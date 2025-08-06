@@ -1,4 +1,5 @@
 # 💫 About Me:
+👋 Hey there! I'm Sam
 💻 I craft cross-platform apps with ⚛️ React Native & 🐦 Flutter  
 🌐 Skilled in the MERN stack – MongoDB, Express, React, Node.js  
 🔐 Passionate about Cybersecurity – from 🐞 bug hunting to 🕵️‍♂️ web penetration testing  
