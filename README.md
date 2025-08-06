@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding-top: 15px;">
-      <img src="https://streak-stats.demolab.com?user=SamMegh&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=SamMegh&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
     </td>
   </tr>
 </table>
