@@ -16,11 +16,12 @@
       <td style="padding: 10px;" colspan=2>
         <img src="https://github-readme-stats.vercel.app/api?username=SamMegh&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
       </td>
-    </tr>
-    <tr>
-     <td style="padding: 10px;">
+      <td style="padding: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamMegh&theme=radical&hide_border=true&layout=compact" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
       </td>
+    </tr>
+    <tr>
+     
       <td>
         <img src="https://nirzak-streak-stats.vercel.app/?user=SamMegh" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.4);"  />
       </td>
