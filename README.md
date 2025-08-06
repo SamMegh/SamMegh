@@ -8,19 +8,20 @@
 ⚔️ Constantly learning, testing, breaking & building – because curiosity fuels mastery 🔥
 
 # 📊 GitHub Stats:
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SamMegh&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamMegh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
+<h2 align="center">📊 My GitHub Stats</h2>
 
-
-
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=SamMegh&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamMegh&theme=radical&hide_border=true&layout=compact" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
