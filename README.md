@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=SamMegh&theme=radical&hide_border=true"
+      <img src="https://nirzak-streak-stats.vercel.app/?user=SamMegh&theme=radical"
            alt="GitHub Streak"
            style="margin-top: 10px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); max-width: 100%;" />
     </td>
