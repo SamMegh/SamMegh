@@ -11,18 +11,24 @@
 # 📊 My GitHub Stats:
 
 <div align="center">
-  <table align="center">
+ <table align="center" style="border-collapse: separate; border-spacing: 15px;">
   <tr>
-    <td style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=SamMegh&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=SamMegh&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
+           alt="GitHub Stats"
+           style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); max-width: 100%;" />
     </td>
-    <td style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamMegh&theme=radical&hide_border=true&layout=compact" alt="Top Languages" style="border-radius: 10px;background-color:none; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamMegh&theme=radical&hide_border=true&layout=compact"
+           alt="Top Languages"
+           style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); max-width: 100%;" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" style="padding-top: 15px;">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=SamMegh&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=SamMegh&theme=radical&hide_border=true"
+           alt="GitHub Streak"
+           style="margin-top: 10px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); max-width: 100%;" />
     </td>
   </tr>
 </table>
