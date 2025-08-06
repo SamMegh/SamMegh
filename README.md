@@ -7,8 +7,7 @@
 🧠 Fluent in languages like C, C++, Java, Python, and scripting exploits  
 ⚔️ Constantly learning, testing, breaking & building – because curiosity fuels mastery 🔥
 
-# 📊 GitHub Stats:
-<h2 align="center">📊 My GitHub Stats</h2>
+# 📊 My GitHub Stats:
 
 <div align="center">
   <table>
