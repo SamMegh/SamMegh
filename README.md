@@ -8,10 +8,17 @@
 ⚔️ Constantly learning, testing, breaking & building – because curiosity fuels mastery 🔥
 
 # 📊 GitHub Stats:
-<div align="center">
-  <img height="200"  style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=SamMegh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="200"  style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamMegh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SamMegh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamMegh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
 
 
 
