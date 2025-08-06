@@ -8,7 +8,7 @@
 ⚔️ Constantly learning, testing, breaking & building – because curiosity fuels mastery 🔥
 
 # 📊 GitHub Stats:
-<table align="center" style="border:none">
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=SamMegh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
@@ -18,6 +18,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
