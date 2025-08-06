@@ -11,9 +11,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SamMegh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-<br />
 <img src="https://streak-stats.demolab.com/?user=SamMegh&theme=dark&hide_border=false" />
-<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamMegh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 </div>
