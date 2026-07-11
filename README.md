@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning while building full-stack applications with React, Node.js.**
 
-- 👨‍💻 All of my projects are available at [sammegh.me]([sammegh.me](https://www.sammegh.me/))
+- 👨‍💻 All of my projects are available at [sammegh.me]((https://www.sammegh.me/))
 
 - 💬 Ask me about **GSAP, Node.js, Express, MongoDB, Firebase, or full-stack web development.**
 
